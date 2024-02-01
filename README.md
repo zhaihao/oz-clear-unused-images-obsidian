@@ -1,5 +1,9 @@
 # Obsidian Plugin for Clearing Unused Images
 
+```shell
+git remote add upstream git@github.com:ozntel/oz-clear-unused-images-obsidian.git
+```
+
 This plugin helps you to keep your vault clean by deleting the images you are not referencing in your markdown notes anymore.
 
 The plugin simply gets all of your image links from all the markdown documents and compares these images with all image files you have available in your vault.
